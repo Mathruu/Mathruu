@@ -3,7 +3,6 @@
 <div>
   <a href="https://github.com/Mathruu">
   <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Mathruu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathruu&langs_count=4&theme=tokyonight"/>
  </div>
   
   ## Technologies and Tools 🛠️
