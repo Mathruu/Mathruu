@@ -3,8 +3,9 @@
 <div>
   <a href="https://github.com/Mathruu">
   <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Mathruu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathruu&theme=tokyonight"/>
  </div>
-  
+
   ## Technologies and Tools 🛠️
   
    <img height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
