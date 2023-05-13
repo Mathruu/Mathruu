@@ -13,7 +13,7 @@
    <img height='32px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' />
    <img height='32px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' />
    <img height='32px' src='https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png' />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   <img height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </div>
   
   ## About me 👨🏿‍💻
