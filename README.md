@@ -15,6 +15,7 @@
    <img height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img height='32px' src='https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png' />
    <img height='32px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   <img height='32px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' />
   </div>
   
   ## About me 👨🏿‍💻
