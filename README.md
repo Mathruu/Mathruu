@@ -20,7 +20,7 @@
   
   ## About me 👨🏿‍💻
   
-    🎓 Information Systems (5/8)
+    🎓 Information Systems (6/8)
     💈 In my free time I study some technologies and play games
     🎧 I love listening to music
     ✨ I plan to be a great developer
