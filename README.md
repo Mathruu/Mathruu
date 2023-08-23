@@ -28,9 +28,9 @@
   ## Contacts 📞
   
   <div>
-    <a href="https://www.linkedin.com/in/matheus-gomes-ba4441209/">
+    <a href="https://www.linkedin.com/in/matheus-gomes-ba4441209/" target="_blank">
     <img alt="LinkedIN" align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-     <a href="mailto:Matheusmathruu@gmai.com">
+     <a href="mailto:Matheusmathruu@gmai.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
