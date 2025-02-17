@@ -21,7 +21,7 @@
   
   ## About me 👨🏿‍💻
   
-    🎓 Information Systems (7/8)
+    🎓 Information Systems (8/8)
     💈 In my free time I study some technologies and play games
     🎧 I love listening to music
     ✨ I plan to be a great developer
